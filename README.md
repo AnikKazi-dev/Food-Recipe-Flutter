@@ -1,12 +1,11 @@
 <h1 align="center">
   <br>
- 
-  App Name
+  Food Recipe
   <br>
 </h1>
 
 
-<h4 align="center">App Name built on top of <a href="https://flutter.dev/" target="_blank" style="color:##0276E8;">Flutter</a>.</h4>
+<h4 align="center">Food Recipe app built on top of <a href="https://flutter.dev/" target="_blank" style="color:##0276E8;">Flutter</a>.</h4>
 
 
 ## Table of Contents
@@ -20,21 +19,16 @@
 
 ## Mockup
 <p align="center">
-  <img src="screenshot/Mockup.jpg" width="256" hspace="4">
+  <img src="screenshot/Mockup.jpg" hspace="4">
 </p>
 
 ## Screenshots 
 
 <p align="center">
-  <img src="screenshot/1.jpg" width="256" hspace="4">
-  <img src="screenshot/2.jpg" width="256" hspace="4">
-  <img src="screenshot/3.jpg" width="256" hspace="4">
-  <img src="screenshot/4.jpg" width="256" hspace="4">
-  <img src="screenshot/5.jpg" width="256" hspace="4">
-  <img src="screenshot/6.jpg" width="256" hspace="4">
-  <img src="screenshot/7.jpg" width="256" hspace="4">
-  <img src="screenshot/8.jpg" width="256" hspace="4">
-  <img src="screenshot/9.jpg" width="256" hspace="4">
+  <img src="screenshot/1.png" width="256" hspace="4">
+  <img src="screenshot/2.png" width="256" hspace="4">
+  <img src="screenshot/3.png" width="256" hspace="4">
+  <img src="screenshot/4.png" width="256" hspace="4">
 </p>
 
 
