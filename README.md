@@ -13,7 +13,7 @@
 * [Screenshots](#screenshots)
 * [About the Project](#about-the-project)
 * [Key Features](#key-features)
-* [Built With](#build)
+* [Built With](#built-with)
 * [License](#license)
 * [Contact](#contact)
 
@@ -34,13 +34,15 @@
 
 ## About the project
 
-* **XXXXXX**: XXX.
-* **XXXX**: XXXXXXXX.
+* **Backend connection**: Json API
 
 ## Key Features
 
-* **State management**: Redux, BloC, repository patterns .
-* **Backend connection**: API provider pattern.
+* Browse Categorized Food
+* Can see food recipe (Ingredient and steps to cook)
+* Can filter out food (Gluten free, lactose free, Vegetarian, vegan)
+* Save filter
+* Add to favorite
 
 ## Built With
 
